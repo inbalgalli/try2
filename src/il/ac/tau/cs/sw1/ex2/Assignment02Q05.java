@@ -22,6 +22,7 @@ public class Assignment02Q05 {
 			}
 		}		
 		
+		System.out.println("this is fucking awesome")
 		// do not change this part below
 		for(int i=0;i < N; i++){ 
 			System.out.println(Arrays.toString(RotatedMatrix[i])); // this would compile after you would put value in transposedMatrix
