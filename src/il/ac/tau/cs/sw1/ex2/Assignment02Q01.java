@@ -11,5 +11,6 @@ public class Assignment02Q01 {
 				System.out.println(first_char);
 			}
 		}
+		System.out.println("2nd try");
 	}
 }
